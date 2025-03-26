@@ -32,7 +32,7 @@ docker run --rm \
 - Correr el comando `./vendor/bin/sail artisan key:generate` para crear la key de la aplicacion
 - Correr el comando `./vendor/bin/sail npm i` para instalar las dependencias del frontend
 - Correr el comando `./vendor/bin/sail artisan migrate` para ejecutar las migraciones
-  - Ya podemos acceder al proyecto en `localhost:80`
+- Ya podemos acceder al proyecto en `localhost:80`
 
 
 ### Como levantar el proyecto
